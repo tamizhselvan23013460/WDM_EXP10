@@ -26,11 +26,18 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+
+
 ## DESIGN:
 ![WhatsApp Image 2025-08-28 at 15 45 11_2a0730ef](https://github.com/user-attachments/assets/a8114efe-943e-4dd8-946e-9541a32ef08d)
 
+
+
+
 ## OUTPUT:
 ![WhatsApp Image 2025-08-28 at 15 44 51_da5f5495](https://github.com/user-attachments/assets/fef689cc-9283-48e0-b10d-39725f2a1cbf)
+
+
 
 ### Result:
 A project for Sentimental Analysis on Any Dataset a Using Rapidminer has been created successfully.
